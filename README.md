@@ -37,9 +37,9 @@ its time to setup stepbystep:
 - third IMPORT the .yml file main page > Import.. or Ctrl + I > Import a Bottle backup > Configuration
 - fourth Add the reg via the registry editor
 - fifth put this cmd: 
-´´´bash
+```bash
 Paint.NET.3.5.11.Install.exe /x:C:\PDN_Extract 
-´´´
+```
 (put it on drive_c dir bc it launches on drive_c)
 
 ### setup now
