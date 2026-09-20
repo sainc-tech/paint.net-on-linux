@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+; Spoof .NET Framework 2.0 Service Pack 2
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v2.0.50727]
+"Install"=dword:00000001
+"MSI"=dword:00000001
+"SP"=dword:00000002
+"Version"="2.1.21022"
+
+; Spoof .NET Framework 3.5 Service Pack 1
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v3.5]
+"Install"=dword:00000001
+"InstallPath"="C:\\windows\\Microsoft.NET\\Framework\\v3.5\\"
+"MSI"=dword:00000001
+"SP"=dword:00000001
+"Version"="3.5.21022.08"
