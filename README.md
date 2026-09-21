@@ -70,3 +70,4 @@ thats it. finally bc my brain is forgetting fast...
 
 uhm 1% of code is ai .-. but its WEAK NOT LIKE THE PRO ONE IM IN FREE TIER!
 done in 2 hrs! its too much..
+put the repo via git (local) btw! meaning the improvements are ALL on me and my computer (Dell Latitude 7490)!
