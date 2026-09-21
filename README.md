@@ -69,4 +69,7 @@ thats it. finally bc my brain is forgetting fast...
 ![Paint.NET (change the dpi to fix the bloated window.)](pdn.png)
 
 uhm 1% of code is ai .-. but its WEAK NOT LIKE THE PRO ONE IM IN FREE TIER!
-done in 2 hrs! its too much..
+done in 2 hrs! its too much.. 
+
+# HOPE it helps!
+I liked Paint.NET VERY MUCH AS ITS EZ but pinta is code changed which i dont want i like paint.net as is so it works 
