@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Adwaita Mono"="Liberation Mono"
+"DejaVu Sans"="Arial"
+"Andale Mono"="Courier New"
+
+[HKEY_CURRENT_USER\Software\Wine\X11 Driver]
+"ClientSideWithRender"="Y"
+"UseXRandR"="Y"
