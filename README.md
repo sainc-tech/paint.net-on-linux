@@ -32,6 +32,8 @@ now this is the hard part listen, im giving u the software to install the LAST w
 # THE BOTTLES SETUP
 Hardness: ez bc of my yaml file ;D
 
+look at the part WHERE to get the bottle settings: ![settings](bottlesettings.png)
+
 OK DOKIE this is the part that works. This is the part where the program is set up first things first we install the regs bc we need the version change but do the requirements first bc we need the things installled first ok dokie
 
 
@@ -69,7 +71,5 @@ thats it. finally bc my brain is forgetting fast...
 ![Paint.NET (change the dpi to fix the bloated window.)](pdn.png)
 
 uhm 1% of code is ai .-. but its WEAK NOT LIKE THE PRO ONE IM IN FREE TIER!
-done in 2 hrs! its too much.. 
-
-# HOPE it helps!
-I liked Paint.NET VERY MUCH AS ITS EZ but pinta is code changed which i dont want i like paint.net as is so it works 
+done in 2 hrs! its too much..
+put the repo via git (local) btw! meaning the improvements are ALL on me and my computer (Dell Latitude 7490)!
