@@ -16,6 +16,8 @@ then install bottles via this cmd: flatpak install com.usebottles.bottles
 
 its ez just dump the archive via Import.. > Import a Bottle backup > /your/path/to/backup_paint.net.tar.gz
 
+[![GitHub Release](https://shields.io)](https://github.com/sainc-tech/paint.net-on-linux/releases)
+
 its 500MB (heavy on 128gb SMOL on 1tb) but it does ALL MY SETUP MEANING yep dump the archive and boom setupe'd done out of the box.
 
 # OR DIY config (manual so archive is recommended!)
