@@ -12,6 +12,15 @@ Just install flatpak in the link: [https://flathub.org/setup](https://flathub.or
 
 then install bottles via this cmd: flatpak install com.usebottles.bottles
 
+# install the full archive (recommended)
+
+its ez just dump the archive via Import.. > Import a Bottle backup > /your/path/to/backup_paint.net.tar.gz
+
+its 500MB (heavy on 128gb SMOL on 1tb) but it does ALL MY SETUP MEANING yep dump the archive and boom setupe'd done out of the box.
+
+# OR DIY config (manual so archive is recommended!)
+if u want to screw the bottle, manual is an option! but its more setup but the full tar.gz does it out of the box sooo... full > manual by hardness of setup
+
 ## Requirements
 Hardness: little i think..
 
