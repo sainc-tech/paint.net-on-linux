@@ -32,7 +32,7 @@ now this is the hard part listen, im giving u the software to install the LAST w
 # THE BOTTLES SETUP
 Hardness: ez bc of my yaml file ;D
 
-look at the part WHERE to get the bottle settings: ![settings](bottlesettings.png)
+look at the part WHERE to get the bottle settings: ![settings](bottlessettings.png)
 
 OK DOKIE this is the part that works. This is the part where the program is set up first things first we install the regs bc we need the version change but do the requirements first bc we need the things installled first ok dokie
 
